@@ -132,6 +132,10 @@ main {
     align-items: center;
 }
 
+.facts{
+    margin-left: 50px;
+    margin-right: 50px;
+}
 .facts-container .card {
     border-radius: 8px;
     border: 1px solid #FF900E;
@@ -179,6 +183,8 @@ main {
     display: flex;
     margin-top: 130px;
     gap: 130px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .features .section-title {
